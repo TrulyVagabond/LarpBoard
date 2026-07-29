@@ -96,4 +96,14 @@ Well obviously the Sockets were placed 1 Unit away from each other which is the 
 
 ![PCB-1](assets/PCB-1.png)
 
-Now i just had to wire all of them together which took ALOTT of time, i worked like 10+ hours a day for this. and if i still can't go to arcana then i would cry man. 
+Now i just had to wire all of them together which took ALOTT of time, i worked like 10+ hours a day for this. and if i still can't go to arcana then i would cry man. well i started wiring the sockets to the diodes first and then sockets to sockets. after that was done, i wired the LED's together in a daisy chain type stuff. i also had to add stabalizers on the keys which took 2 units or more. i found the footprint for the stablizer and placed it according to the center hole of the key. Here's how it looks now:
+
+![PCB-2](assets/PCB-2.png)
+
+I'm pretty happy with the wiring as of now and really like how it is looking. Now i have to wire all the other components and then make a ground plane to finish the PCB. Here's how it looks after wiring everything, this took another 10 hours btw:
+
+![](assets/PCB-3.png)
+
+idk about you but this looks so good to me man. Im finally done with everything on the PCB and i can finally ship this now. I also need to write the readme tho.
+
+***//See you Space Cowboy***
