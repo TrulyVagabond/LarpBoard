@@ -89,4 +89,11 @@ Wiring everything was a pain because i had so many different things to lookout f
 
 ### PCB Design:
 
-Took a HUGE break in between cuz i had to buy the passport and do all that shi, it is such a pain to go to the government offices etc but Alhamdulillah, i got everything successfully tho. I also had other stuff to do and i was tired thats why i didn't write much in the journal. I started working on the PCB design and it SOOO laggy, i had to download the easyEDA software. and thankfully it was on linux but man it still gives errors and stuff sometimes. but it was working smoothly. 
+Took a HUGE break in between cuz i had to buy the passport and do all that shi, it is such a pain to go to the government offices etc but Alhamdulillah, i got everything successfully tho. I also had other stuff to do and i was tired thats why i didn't write much in the journal. I started working on the PCB design and it SOOO laggy, i had to download the easyEDA software. and thankfully it was on linux but man it still gives errors and stuff sometimes. but it was working smoothly. I started by placing the components and its capacitors and resistors as close as possible to each other. after that i started routing everything. but there was a problem, all the leds and sockets showed DRC errors, because the PADs and stuff were too close to each but thats how the footprints are for sockets and LEDs so i had to change the Design rule to make it not show errors. Here is how everything was placed:
+
+- **Placement of the Sockets:**
+Well obviously the Sockets were placed 1 Unit away from each other which is the size of a normal Keycaps. well my sockets footprint had a box around it, which shows how much area each key takes, so it was pretty easy to place and design the keyboard, my keyboard includes 68 keys, which is all the letters and the arrow keys, i also added two different keys which i will use for copy and pasting. this will be such a peak keyboard man. After placing all the Sockets, this is how it looked:
+
+![PCB-1](assets/PCB-1.png)
+
+Now i just had to wire all of them together which took ALOTT of time, i worked like 10+ hours a day for this. and if i still can't go to arcana then i would cry man. 
