@@ -141,6 +141,28 @@ You can Contribute by Writing the Firmware for me HAHA. or Making Awesome Change
 
 This Project is Distributed Under MIT License. Check License.txt for More Information.
 
+<!-- MARKDOWN LINKS & IMAGES -->
+[contributors-shield]: https://img.shields.io/github/contributors/TrulyVagabond/Vashtastic.svg?style=for-the-badge
+[contributors-url]: https://github.com/TrulyVagabond/Vashtastic/graphs/contributors
+
+[forks-shield]: https://img.shields.io/github/forks/TrulyVagabond/Vashtastic.svg?style=for-the-badge
+[forks-url]: https://github.com/TrulyVagabond/Vashtastic/network/members
+
+[stars-shield]: https://img.shields.io/github/stars/TrulyVagabond/Vashtastic.svg?style=for-the-badge
+[stars-url]: https://github.com/TrulyVagabond/Vashtastic/stargazers
+
+[issues-shield]: https://img.shields.io/github/issues/TrulyVagabond/Vashtastic.svg?style=for-the-badge
+[issues-url]: https://github.com/TrulyVagabond/Vashtastic/issues
+
+[license-shield]: https://img.shields.io/github/license/TrulyVagabond/Vashtastic.svg?style=for-the-badge
+[license-url]: https://github.com/TrulyVagabond/Vashtastic/blob/main/LICENSE
+
+[EasyEDA]: https://img.shields.io/badge/EasyEDA-0177D7?style=for-the-badge
+[EasyEDA-url]: https://easyeda.com/
+
+[FreeCAD]: https://img.shields.io/badge/FreeCAD-2D9CDB?style=for-the-badge&logo=freecad&logoColor=white
+[FreeCAD-url]: https://www.freecad.org/
+
 <br>
 
 ###### Note: A.I was only used for Research Purposes.
