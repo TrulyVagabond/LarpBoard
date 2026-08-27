@@ -1,4 +1,4 @@
-# LARPBOARD: A Keyboard for Larpers.
+# LarpBoard: A Keyboard for Larpers.
 
 ## What is Larp?
 
@@ -85,6 +85,9 @@ Wiring everything was a pain because i had so many different things to lookout f
 
 ![Finished Schematic](assets/SCH_Schematic1_1-P1_2026-07-27.png)
 
+[Lapse-Recording](https://lapse.hackclub.com/timelapse/jaFWriPHnn3V)
+
+
 ## 26-July-2026 - 29-July-2026
 
 ### PCB Design:
@@ -105,5 +108,22 @@ I'm pretty happy with the wiring as of now and really like how it is looking. No
 ![](assets/PCB-3.png)
 
 idk about you but this looks so good to me man. Im finally done with everything on the PCB and i can finally ship this now. I also need to write the readme tho.
+
+[Lapse-Recording-1](https://lapse.hackclub.com/timelapse/z0EAE3T4yNss)
+[Lapse-Recording-2](https://lapse.hackclub.com/timelapse/z0EAE3T4yNss)
+[Lapse-Recording-3](https://lapse.hackclub.com/timelapse/z0EAE3T4yNss)
+
+## 26-August-2026 - 27-August-2026
+
+### Designing the PCB:
+
+Ofc I couldn't have just left it like that, i had to make it look good. Well I did just that and Added some Silkscreen Art to the PCB. Here's how it Looks.
+
+![LarpBoard](assets/LarpBoard.png)
+
+Used the Monster Anime for Inspiration this time, ah man it is soooo peak. I can finally submit it now.
+
+[Lapse-Recording](https://lapse.hackclub.com/timelapse/z0EAE3T4yNss)
+[Lapse-Recording](https://lapse.hackclub.com/timelapse/z0EAE3T4yNss)
 
 ***//See you Space Cowboy***
