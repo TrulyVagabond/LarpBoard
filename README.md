@@ -105,29 +105,31 @@ To get Your own LarpBoard, you need three things.
 
    1. You can Either Order the PCB pre-soldered from Manufacturers. or you can Solder on your own. See the PCB layout for Soldering. 
 
-  3. After Doing all that, Your PCB would finally be ready.
+  2. After Doing all that, Your PCB would finally be ready.
+
+- **Flashing the Firmware:**
+
+  1. Unplug your keyboard's USB cable.
+
+  2. Press and hold the physical BOOT button (connected to RP2040 pin 43)
+  
+  3. While holding the button, insert the USB-C cable into your computer, then release the button. 
+
+  4. Your OS will mount the RP2040 as a USB mass storage drive called RPI-RP2
+
+  5. Drag and drop the "vagabond_default.uf2" file from the Firmware directory,  directly into the RPI-RP2 drive folder.
+
+  6. The drive will immediately unmount automatically, the RP2040 will reboot, and your computer will recognize it as a functioning USB HID keyboard.
 
 - **Case Assembly:**
 
   1. 3D Print the Enclosure with the Specified Settings Above.
 
-  2. You Must 3D print the Front and Back Shell Separately. The Front Shell Contains the Holes for the Buttons and E-ink Display. The Back Shell Contains a Space for the Battery Sled to go in and a Hole For Smooth Connection between the Battery and the Connector on the PCB (JST connector)
+  2. You Must 3D print the Front and Back Shell Separately.
 
-  3. Put the Antenna Through the Hole in the Enclosure.
+  3. Use **M3 Screws** to Screw in everything, The Front Shell and Back Shell. 
 
-  4. Add the buttons in the Desired hole Created in the Enclosure Before Closing it shut.
-
-  5. Use **M3 Screws** to Screw in everything, The Front Shell and Back Shell. 
-
-  6. Your **LarpBoard** is Ready to Use.
-
-
-#### <p align="center">Note: This Repo Does Not Contain the Firmware. Add the Firmware On Your Own.</p>
-
-
-## Contributing:
-
-You can Contribute by Writing the Firmware for me HAHA. or Making Awesome Changes to the Case.
+  4. Your **LarpBoard** is Ready to Use.
 
 ## Special Thanks:
 
