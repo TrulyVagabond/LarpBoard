@@ -27,7 +27,21 @@
 <p align="center"><img src="assets/LarpBoard.png" /></p>
 
 
-LarpBoard is a 65% Keyboard Designed for Professional Larpers. Keep in mind tho that you will not get ANY girls if you have this (More MEN attraction). Build and Use this at your own Risk. Well Lets Talk about why this Keyboard will be unique and better than other Low Level Keyboards. This Keyboard Includes Kailh Hot-Swap Sockets and RGB LEDs. A 0.9inch OLED Display for CMatrix. A rollable Volume Knob cuz why not, an NFC reader cuz why not, a solenoid for sound, 2 USB-C Ports, a USB Hub Chip and the Main MCU RP2040.
+LarpBoard is a 65% Keyboard Designed for Professional Larpers. Keep in mind tho that you will not get ANY girls if you have this (More MEN attraction). Build and Use this at your own Risk. Well Lets Talk about why this Keyboard will be unique and better than other Low Level Keyboards. This Keyboard Includes Kailh Hot-Swap Sockets and RGB LEDs. A 0.9inch OLED Display for CMatrix. An NFC reader cuz why not, a solenoid for sound, 2 USB-C Ports, a USB Hub Chip and the Main MCU RP2040.
+
+### Schematics:
+
+<p align="center"><img src="Schematics/SCH_Schematic1_1-P1_2026-09-28.png" /></p>
+
+
+### PCB Wiring: 
+
+<p align="center"><img src="assets/PCB-3.png" /></p>
+
+### Case Render:
+
+<p align="center"><img src="CAD/LarpBoard.png" /></p>
+
 
 ### Built With
 
@@ -58,8 +72,6 @@ To get Your own LarpBoard, you need three things.
 1. Navigate to the **"CAD"** folder.
 
 2. Download any of the File Formats and Upload it into your Desired 3D slicing Software.
-
-3. Use a durable, temperature-resistant filament like **PETG or ABS**. Set your wall thickness to at least 4 perimeters for high structural strength.
 
 ## Bills Of Materials (BOM)
 
